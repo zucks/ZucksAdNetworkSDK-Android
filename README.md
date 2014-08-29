@@ -18,7 +18,7 @@ Android向けアプリケーションにZucks Ad Networkの広告を表示する
 
 ## 対象OS
 
-Android2.1以降
+Android2.3以降
 
 ## 導入手順
 
