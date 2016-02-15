@@ -10,9 +10,6 @@ Android向けアプリケーションにZucks Ad Networkの広告を表示する
 
 * libs
   * SDKファイル用フォルダ
-* SampleApp
-  * SDK組み込みのサンプルアプリケーション
-  * AndroidManifest.xmlにメディアIDを設定することで、広告の表示が確認できます
 * README.md
   * 本ファイル
 
@@ -26,3 +23,6 @@ SDKの導入手順に関しては下記ページをご確認ください。
 
 https://ms.zucksadnetwork.com/media/sdk/manual/android/
 
+## LICENSE
+
+Copyright (C) Zucks, Inc.
